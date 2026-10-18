@@ -8,9 +8,10 @@
 <p align="center">
   <a href="mailto:ana.shahid@numl.edu.pk"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ana-shahid-243533180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0009-0008-7899-0020"><img src="https://img.shields.io/badge/ORCID-0A66C2?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://doi.org/10.3390/math10234598"><img src="https://img.shields.io/badge/Publication-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Publication"></a>
 </p>
-
+  
 ---
 
 ## 👋 About Me
