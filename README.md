@@ -3,7 +3,6 @@
 <p align="center">
   <b>Lecturer & Researcher in Computer Science</b><br>
   <a href="https://numl.edu.pk">National University of Modern Languages (NUML)</a>, Islamabad, Pakistan<br>
-  <i>Seeking a fully funded PhD in Europe</i>
 </p>
 
 <p align="center">
