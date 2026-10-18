@@ -1,15 +1,24 @@
 <h1 align="center">Ana Shahid</h1>
+
 <p align="center">
-  Lecturer, Department of Computer Science<br>
-  National University of Modern Languages (NUML), Islamabad, Pakistan<br>
-  📧 ana.shahid@numl.edu.pk
+  <b>Lecturer & Researcher in Computer Science</b><br>
+  <a href="https://numl.edu.pk">National University of Modern Languages (NUML)</a>, Islamabad, Pakistan<br>
+  <i>Seeking a fully funded PhD in Europe (Schengen countries)</i>
 </p>
+
+<p align="center">
+  <a href="mailto:ana.shahid@numl.edu.pk"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ana-shahid-243533180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+</p>
+
+---
 
 ---
 
 ## About me
 
-I am a Lecturer in the Department of Computer Science at the National University of Modern Languages (NUML), Islamabad, Pakistan. I am seeking a **fully funded PhD position in Europe (Schengen countries)** and would be glad to hear from supervisors and research groups working in related areas. If you have an open position, please contact me directly via email.
+I am a Lecturer in the [Department of Computer Science](https://numl.edu.pk/departments/178) at the [National University of Modern Languages (NUML)](https://numl.edu.pk), Islamabad, Pakistan. I am seeking a **fully funded PhD position in Europe (Schengen countries)** and would be glad to hear from supervisors and research groups working in related areas. If you have an open position, please contact me directly via email.
 
 My research interests include **Trustworthy AI, Machine Learning, Deep Learning, and Security in IoT**. My work focuses on intrusion detection for IoT networks (smart home and smart healthcare) using hybrid machine learning and deep learning models, and I aim to extend it toward trustworthy, reliable and secure AI for connected environments.
 
@@ -17,14 +26,14 @@ My research interests include **Trustworthy AI, Machine Learning, Deep Learning,
 
 ## Education
 
-**MS Computer Science**, National University of Modern Languages (NUML), Islamabad, Pakistan
+**MS Computer Science**, [National University of Modern Languages (NUML)](https://numl.edu.pk), Islamabad, Pakistan
 - Thesis: *Intrusion Detection Using Deep Learning in IoT-Based Smart Healthcare*
-- Supervisor: Dr. Sajjad Haider https://www.numl.edu.pk/faculty/46
+- Supervisor: [Dr. Sajjad Haider](https://www.numl.edu.pk/faculty/46)
 
-**BS (Hons.) Information Technology**, University of Gujrat, Pakistan
+**BS (Hons.) Information Technology**, [University of Gujrat](https://uog.edu.pk), Pakistan
 
-**M.Ed in Science Education**, AIOU 
-Passionate about blending scientific inquiry with Modern Educational Technology.
+**M.Ed in Science Education**, [Allama Iqbal Open University (AIOU)](https://aiou.edu.pk), Islamabad, Pakistan
+- Passionate about blending scientific inquiry with modern educational technology.
 
 ---
 
@@ -48,9 +57,11 @@ Passionate about blending scientific inquiry with Modern Educational Technology.
 
 ---
 
-## Teaching
+## 👩‍🏫 Teaching 
 
-- Lecturer, Department of Computer Science, NUML Islamabad
+- **Lecturer**, [Department of Computer Science](https://numl.edu.pk/departments/178), [National University of Modern Languages (NUML)](https://numl.edu.pk), Islamabad
+- **Computer Science Teacher**, [Punjab School Education Department](https://schools.punjab.gov.pk/), Pakistan
+
 
 ---
 
