@@ -38,12 +38,10 @@ My research interests include **Trustworthy AI, Machine Learning, Deep Learning,
 ## 🏅 Professional Qualification
 
 **M.Ed in Science Education** | 2020 – 2021
-[Allama Iqbal Open University (AIOU)](https://aiou.edu.pk), Islamabad, Pakistan
-- Focus on integrating scientific inquiry with modern educational technology.
+[Allama Iqbal Open University (AIOU)](https://aiou.edu.pk), Islamabad, Pakistan |Focus on integrating scientific inquiry with modern educational technology.
 
 **Bachelor of Education** | 2016 – 2018
-[Allama Iqbal Open University (AIOU)](https://aiou.edu.pk), Islamabad, Pakistan
-- Focus on Educational Technology and Evaluation.
+[Allama Iqbal Open University (AIOU)](https://aiou.edu.pk), Islamabad, Pakistan |Focus on Educational Technology and Evaluation.
 
 ---
 
