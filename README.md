@@ -54,6 +54,8 @@ Passionate about blending scientific inquiry with Modern Educational Technology.
 
 ---
 
-## Contact
+## 📫 Contact
 
-📧 ana.shahid@numl.edu.pk
+📧 [ana.shahid@numl.edu.pk](mailto:ana.shahid@numl.edu.pk)
+
+<a href="https://www.linkedin.com/in/ana-shahid-243533180"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="18"></a> [linkedin.com/in/ana-shahid-243533180](https://www.linkedin.com/in/ana-shahid-243533180)
