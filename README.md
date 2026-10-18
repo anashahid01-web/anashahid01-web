@@ -8,6 +8,7 @@
 <p align="center">
   <a href="mailto:ana.shahid@numl.edu.pk"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ana-shahid-243533180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?user=xdvuy0wAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-0A66C2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0009-0008-7899-0020"><img src="https://img.shields.io/badge/ORCID-0A66C2?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="https://doi.org/10.3390/math10234598"><img src="https://img.shields.io/badge/Publication-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Publication"></a>
 </p>
@@ -82,3 +83,7 @@ Alongside research, I teach computer science and enjoy mentoring students, which
 📧 [ana.shahid@numl.edu.pk](mailto:ana.shahid@numl.edu.pk)
 
 🔗 [LinkedIn: linkedin.com/in/ana-shahid-243533180](https://www.linkedin.com/in/ana-shahid-243533180)
+
+🎓 [Google Scholar](https://scholar.google.com/citations?user=xdvuy0wAAAAJ&hl=en)
+
+🆔 [ORCID: 0009-0008-7899-0020](https://orcid.org/0009-0008-7899-0020)
