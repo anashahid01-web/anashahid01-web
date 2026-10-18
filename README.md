@@ -28,8 +28,7 @@ My research interests include **Trustworthy AI, Machine Learning, Deep Learning,
 
 **MS Computer Science** | 2020 – 2022
 [National University of Modern Languages (NUML)](https://numl.edu.pk), Islamabad, Pakistan
-- Thesis: *Intrusion Detection Using Deep Learning in IoT-Based Smart Healthcare*
-- Supervisor: [Dr. Sajjad Haider](https://www.numl.edu.pk/faculty/46)
+- Thesis: *Intrusion Detection Using Deep Learning in IoT-Based Smart Healthcare* | Supervisor: [Dr. Sajjad Haider](https://www.numl.edu.pk/faculty/46)
 
 **BS (Hons.) Information Technology** | 2011 – 2015
 [University of Gujrat](https://uog.edu.pk), Pakistan
