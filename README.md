@@ -18,7 +18,6 @@ My research interests include **Trustworthy AI, Machine Learning, Deep Learning,
 ## Education
 
 **MS Computer Science**, National University of Modern Languages (NUML), Islamabad, Pakistan
-- CGPA: 3.66/4.00 
 - Thesis: *Intrusion Detection Using Deep Learning in IoT-Based Smart Healthcare*
 - Supervisor: Dr. Sajjad Haider https://www.numl.edu.pk/faculty/46
 
