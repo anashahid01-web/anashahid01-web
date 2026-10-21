@@ -70,7 +70,12 @@ Alongside research, I teach computer science and enjoy mentoring students, which
 > Proposed a hybrid KNN + Decision Tree + LSTM model with AdaBoost for detecting attacks in IoT smart home networks, evaluated on the CIC-IoT 2022 and UNSW-NB15 datasets.
 
 ---
+## 💻 Projects
 
+**[GeoCalculator](https://github.com/anashahid01-web/GeoCalculator-BS-FYP)**
+BS final year project at the University of Gujrat: an Android-based location tracking and geo-coordinate conversion app for students and parents. Built with Android, PHP/MySQL, JavaScript and Google Maps API. 
+
+---
 ## 👩‍🏫 Teaching Experience
 
 - **Lecturer**, [Department of Computer Science](https://numl.edu.pk/departments/178), [National University of Modern Languages (NUML)](https://numl.edu.pk), Islamabad
