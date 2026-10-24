@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:ana.shahid@numl.edu.pk"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/ana-shahid-243533180"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?user=xdvuy0wAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-0A66C2?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0009-0008-7899-0020"><img src="https://img.shields.io/badge/ORCID-0A66C2?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
